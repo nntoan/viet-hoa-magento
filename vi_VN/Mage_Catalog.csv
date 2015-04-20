@@ -98,7 +98,7 @@
 "Attribute Sets","Nhóm thuộc tính"
 "Attribute add","Thêm thuộc tính"
 "Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-"Attribute group with the \"/name/\" name already exists","Nhóm thộc tính có \"/tên/\" đã tồn tại"
+"Attribute group with the 'name' name already exists","Nhóm thộc tính có 'tên' đã tồn tại"
 "Attribute remove","Gỡ bỏ thuộc tính"
 "Attribute with the same code already exists","Thuộc tính với cùng một mã đã tồn tại"
 "Attributes","Thuộc tính"
